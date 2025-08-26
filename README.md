@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 My name is Teena Chaudhary </h1>
+<h1 align="center">Hey there! 👋 My name is Teena Chaudhary </h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from Delhi<br><br>- 🔭 I’m working as a Specialist<br>- 📚 I'm currently working Power BI projects<br>
+<p align="left">I'm from Delhi<br><br>- 🔭 I’m working as a Specialist<br>- 📚 I'm currently working on Power BI projects<br>
 
 ###
 
@@ -55,15 +55,4 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 
