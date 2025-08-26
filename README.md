@@ -1,3 +1,24 @@
+add Right Gif Image
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
+add banner (use your links) :
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
