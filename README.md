@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from Delhi<br><br>- 🔭 I’m working as a Specialist<br>- 📚 I'm currently working on Power BI projects<br>
+<p align="left">I'm from Delhi<br><br>- 🔭 I’m working as a Specialist & currently working on Power BI projects.<br>- 📚 Skilled in Power BI, SQL, Power Query & Advanced Excel. <br>
 
 ###
 
